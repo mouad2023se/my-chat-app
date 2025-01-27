@@ -1,1 +1,14 @@
-node_modules
+# Node.js
+node_modules/
+# IDE-specific files
+.vscode/
+*.suo
+*.user
+*.sln
+*.csproj
+*.vspscc 
+
+/node_modules
+/.firebase
+/logs
+*.log
